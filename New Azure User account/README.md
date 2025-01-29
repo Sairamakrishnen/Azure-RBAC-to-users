@@ -4,9 +4,9 @@ This example shows how to create a new user account in Microsoft Azure tenant us
 
 A new tenant is required to manage users for an organisation.
 
-* Navigate to Entra ID -> Manage tenants -> Create
+* Navigate to **Entra ID -> Manage tenants -> Create**
 * On the Basics tab, select the type of tenant you want to create, Microsoft Entra ID (B2C).
-* On the Configuration tab Type your desired Organization name, desired Initial domain name, your desired Country/Region 
+* On the Configuration tab Type your desired **Organization name, desired Initial domain name**, your desired Country/Region.
 * Next: Review + Create -> Create
 * A new Tenant is created with desired Organisation and domain name as below:
 ![Capture](https://github.com/user-attachments/assets/fe2c3cab-b3bb-408c-8cac-ed3fa62d3f4d)
