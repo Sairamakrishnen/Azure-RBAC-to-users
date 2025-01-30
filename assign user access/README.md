@@ -1,4 +1,4 @@
-![remove rg user](https://github.com/user-attachments/assets/184f2ec3-72a8-48e7-bf31-a3f68833af2b)![remove sd](https://github.com/user-attachments/assets/a0e93186-0878-4bb3-8448-8d9f1aa71547)![rbac](https://github.com/user-attachments/assets/0ed33149-8c92-4729-a9f3-68342ad9cf96)This example shows how to assign role-based access control to Entra user using powershell cmdlets.
+This example shows how to assign role-based access control to Entra user using powershell cmdlets.
 
 ## Assign reader role to user at the subscription scope.
 
@@ -31,6 +31,8 @@
 
 ## Cleanup
 
-* Remove the resource group and the user using **Remove-AzResourceGroup**, **New-AzADUser** cmdlets.
+* Remove the resource group and the user using **Remove-AzResourceGroup**, **Remove-AzADUser** cmdlets.
 
-![Uploading remove rg user.JPG…]()
+![remove rg user](https://github.com/user-attachments/assets/3aa8dfe4-fc0a-49aa-911f-a94e3bd14487)
+
+
