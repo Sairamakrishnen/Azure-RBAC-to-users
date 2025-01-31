@@ -13,4 +13,4 @@ This GitHub repository contains examples of access management of Entra users to 
 * Creating a Container storage in the Azure storage account.
 * Managing access control by role assignment to Entra user using Azure RBAC.
 * Remove assigned user access role and the user.
-* Delete resource group.                                 
+* Delete resource group.
