@@ -2,7 +2,7 @@ This GitHub repository contains PowerShell examples for managing access permissi
 
 ## Getting started:
 
-* Sign-in/ login to the Azure account.
+* Sign in to the Azure account.
 * Select your default subcription.
 
 ## Contents in this repository
