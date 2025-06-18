@@ -1,4 +1,4 @@
-This GitHub repository contains examples of access management of Entra users to azure resources using Azure powershell cmds.
+This GitHub repository contains PowerShell examples for managing access permissions of Entra ID (Azure AD) users to Azure resources.
 
 ## Getting started:
 
@@ -7,10 +7,10 @@ This GitHub repository contains examples of access management of Entra users to 
 
 ## Contents in this repository
 
-* Creating a Entra tenant and a user account in the tenant.
-* Creating a Resource group in subcription associated with tenant.
-* Creating a general-purpose storage account.
-* Creating a Container storage in the Azure storage account.
-* Managing access control by role assignment to Entra user using Azure RBAC.
-* Remove assigned user access role and the user.
-* Delete resource group.
+* Create an Entra ID (Azure AD) tenant and a user account within the tenant.
+* Create a Resource Group in the subscription associated with the tenant.
+* Create a general-purpose Azure Storage Account.
+* Create a Blob container within the Storage Account.
+* Manage access control by assigning roles to the Entra ID user using Azure RBAC.
+* Remove the assigned role and delete the Entra user.
+* Delete the Resource Group and associated resources.
